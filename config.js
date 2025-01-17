@@ -1,8 +1,7 @@
 
 ////recodee by : 𝗙𝗮𝗺𝗼𝗳𝗰-𝗱𝗲𝘃🔕😋
-//// wa: 088213993436
-//// wa2: 088210180505
-//// wa3: 083119115977
+//// wa: 254112386921
+//// wa3: 254112767921
 //// YouTub : @hiraaxz
 
 
@@ -1837,9 +1836,9 @@
 
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['923350963366']
-global.ownMain = '923350963366'
-global.NamaOwner = '𝗙𝗮𝗺𝗼𝗳𝗰-𝗱𝗲𝘃 𝗯𝘂𝗴'
+global.owner = ['254112386921']
+global.ownMain = '254112386921'
+global.NamaOwner = 'TOpBOUY-𝗱𝗲𝘃 𝗯𝘂𝗴'
 global.sessionName = 'session'
 global.foto = 'https://i.postimg.cc/B6wVRnzf/famofc.jpg'
 global.simbol = '>'
@@ -1847,16 +1846,16 @@ global.connect = true
 global.namabot = '𝗙𝗮𝗺𝗼𝗳𝗰-𝗱𝗲𝘃 𝗯𝘂𝗴😂'
 global.author = 'famofc-dev'
 global.packname = '𝗙𝗮𝗺𝗼𝗳𝗰-𝗱𝗲𝘃 𝗯𝘂𝗴'
-global.url = 'https://whatsapp.com/channel/0029VaUzts6I7Be6YudRyn1P'
-global.urlWa = 'https://wa.me/923350963366'
-global.url1 = 'https://whatsapp.com/channel/0029VaUzts6I7Be6YudRyn1P'
-global.url2 = 'https://whatsapp.com/channel/0029VaUzts6I7Be6YudRyn1P'
+global.url = 'https://whatsapp.com/channel/25411238921'
+global.urlWa = 'https://wa.me/254112386921'
+global.url1 = 'https://whatsapp.com/channel/254112767921'
+global.url2 = 'https://whatsapp.com/channel/254112386921'
 global.xcrash = {
     kz: "ᛃͣͮdevelopers ⌕",
     xv: "🧬༑𝐂⃟⃟𝐫𝐚𝐬𝐡꙲ౄ҈҉ャ",
     xz: "🖤⟩ ༘྅ɖɛᏉᎾֆɨx𝙲Ꮎʀɛ ⿻ ꧏ🤍҈ ༑",
     xk: "*👑༘⃰༡͜͡ⅅⅇ̄𝕧̷𝕠̤𝕤̊ⅈ͓߲𝕩𝕔𝕠̷̲𝕣ⅇ̈ 𑅆༏",
-    xc: "🔥⃟༑𝐂𝐎𝐒𝐓𝐒༑⃟🧐⃟ ⟩ 𝐛𝐲 rizal-dev ☆ >",
+    xc: "🔥⃟༑𝐂𝐎𝐒𝐓𝐒༑⃟🧐⃟ ⟩ 𝐛𝐲 TOpBOUY-dev ☆ >",
     xq: "📱𝗙𝗮𝗺𝗼𝗳𝗰-𝗱𝗲𝘃 𝘃𝗲𝗿𝘀𝗶𝗼𝗻 9 𝗯𝘂𝗴😂✔️"
 }
 
